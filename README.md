@@ -1,4 +1,4 @@
-# Case Study: Unknown MQTT Integration Error
+# Case Study :: Unknown MQTT Integration Error
 
 ![Technology - Spring Boot](https://img.shields.io/badge/Technology-Spring_Boot-blue)
 ![Tracing Difficulty - Medium](https://img.shields.io/badge/Tracing_Difficulty-Medium-orange)
