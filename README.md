@@ -2,7 +2,7 @@
 
 ![Technology - Spring Boot](https://img.shields.io/badge/Technology-Spring_Boot-blue)
 ![Tracing Difficulty - Medium Hard](https://img.shields.io/badge/Tracing_Difficulty-Medium_Hard-orange)
-![Implementation Difficulty - Easy](https://img.shields.io/badge/Implementation_Difficulty-Easy-blue)
+![Implementation Difficulty - Easy](https://img.shields.io/badge/Implementation_Difficulty-Easy-green)
 
 ## The Condition
 
